@@ -35,7 +35,7 @@
 <a href="https://github.com/enicacio/DesafioFrontend_Itautech/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enicacio&repo=DesafioFrontend_Itautech&theme=tokyonight" />
 </a>    
-<a href="https://github.com/enicacio/Calculadora_veicular_carbono/tree/developer">
+<a href="https://github.com/enicacio/Calculadora_veicular_carbono">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enicacio&repo=Calculadora_veicular_carbono&theme=tokyonight" />
 </a>
 
