@@ -16,12 +16,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <br>
 
-
-<div>
-  <a href="https://github.com/enicacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enicacio&langs_count=6&layout=compact&theme=tokyonight&exclude_repo=aulagit,enicacio"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enicacio&show_icons=true&theme=tokyonight"/> 
-</div>
+| <a href="https://github.com/enicacio"><img align="center" min-height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enicacio&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=aulagit,enicacio" alt="Enicacio's github stats" /></a> | <a href="hhttps://github.com/enicacio"><img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=enicacio&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&exclude_repo=aulagit,enicacio" /></a> |
+| ------------- | ------------- |
 <br>
 
 #### My Favorite Repositories
