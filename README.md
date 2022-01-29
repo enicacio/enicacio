@@ -4,7 +4,7 @@
 **About me**
 
 - ♻️ Environmental Engineer in career transition
-- 👩🏻‍💻 Developer at [Itaú](https://www.itau.com.br/)
+- 👩🏻‍💻 Software Engineer at [Itaú](https://www.itau.com.br/)
 <br>
 
 **Languages and Tools 👶🏻:**
